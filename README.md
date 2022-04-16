@@ -18,3 +18,12 @@ or press the command in the chat
 # last words
 I hope you like it.
 please report bugs and give Feedback!
+
+
+
+
+## Contact
+
+Your Name - [@Instagram](https://instagram.com/PixelCube04)
+
+Project Link: [https://github.com/PixelCube04/repo_name](https://github.com/PixelCube04/Sit-on-Stairs)
