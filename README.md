@@ -9,7 +9,7 @@ if you join in the world the first time with the datapack
   - [ ] Nether wood
 - [ ] Stone
 
-### use
+## How to use
 ```
 /tag @p add Give
 ```
