@@ -13,7 +13,7 @@ if you join in the world the first time with the datapack
 ```
 /tag @p add Give
 ```
-ore press the command in the chat
+or press the command in the chat
 
 # last words
 I hope you like it.
