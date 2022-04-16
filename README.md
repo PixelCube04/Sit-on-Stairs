@@ -26,4 +26,4 @@ please report bugs and give Feedback!
 
 Your Name - [@Instagram](https://instagram.com/PixelCube04)
 
-Project Link: [https://github.com/PixelCube04/repo_name](https://github.com/PixelCube04/Sit-on-Stairs)
+Project Link: [https://github.com/PixelCube04/Sit-on-Stairs](https://github.com/PixelCube04/Sit-on-Stairs)
