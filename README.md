@@ -15,11 +15,9 @@ if you join in the world the first time with the datapack
 ```
 or press the command in the chat
 
-# last words
+#### last words
 I hope you like it.
 please report bugs and give Feedback!
-
-
 
 
 ## Contact
