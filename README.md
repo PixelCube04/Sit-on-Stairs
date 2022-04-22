@@ -25,3 +25,4 @@ please report bugs and give Feedback!
 PixelCube04 - [@Instagram](https://instagram.com/PixelCube04)
 
 Project Link: [https://github.com/PixelCube04/Sit-on-Stairs](https://github.com/PixelCube04/Sit-on-Stairs)
+## ©PixelCube04
