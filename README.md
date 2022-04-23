@@ -8,6 +8,7 @@ if you join in the world the first time with the datapack
 - [X] Wood
   - [ ] Nether wood
 - [ ] Stone
+- [ ] Copper
 
 ## How to use
 ```
