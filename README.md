@@ -5,7 +5,7 @@ if you join in the world the first time with the datapack
 `rejoin!` else you can't use the datapack
 
 ### "bug"
-- [ ] Server profed proved
+- [ ] Server proved
 
 ## Types
 - [X] Wood
